@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul,li
+{
+padding:0px;
+margin:0px;
+}
+
+ul.ak li
+{
+list-style:none;
+}
+
+
+.akmain a
+{
+padding:6px;
+display:block;
+background-color:#009ebb;
+color:#FFFFFF;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+margin-bottom:3px;
+background-image:url(../images/catarrow.gif);
+background-position:right center;
+background-repeat:no-repeat;
+}
+
+.akmain a.act
+{
+padding:6px;
+display:block;
+background-color:#000000;
+color:#FFFFFF;
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+margin-bottom:3px;
+background-image:url(../images/catarrow2.gif);
+background-position:right center;
+background-repeat:no-repeat;
+}
+
+
+ul.ak li a
+{
+padding:5px;
+display:block;
+background-color:#e4e4e4;
+color:#000000;
+font-weight:bold;
+font-size:12px;
+margin-bottom:2px;
+text-decoration:none;
+background-image:url(../images/akplus.jpg);
+background-position:right center;
+background-repeat:no-repeat;
+
+}
+ul.ak li a.minus
+{
+padding:5px;
+display:block;
+background-color:#e4e4e4;
+color:#000000;
+font-weight:bold;
+font-size:12px;
+margin-bottom:2px;
+text-decoration:none;
+background-image:url(../images/akminus.jpg);
+background-position:right center;
+background-repeat:no-repeat;
+
+}
+
+ul.ak li a.boos
+{
+padding:5px;
+display:block;
+background-color:#e4e4e4;
+color:#009ebb;
+font-weight:bold;
+font-size:12px;
+margin-bottom:2px;
+text-decoration:none;
+background-image:none;
+
+}
+
+ul.ak li ul li a
+{
+padding-left:15px;
+display:block;
+background-color:#f8f8f8;
+color:#666666;
+font-weight:normal;
+font-size:12px;
+margin-bottom:2px;
+border:1px solid #e4e4e4;
+text-decoration:none;
+background-image:none;
+}

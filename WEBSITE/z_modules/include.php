@@ -1,0 +1,1 @@
+<?php //echo base64_decode(' PGgyIHN0eWxlPSJoZWlnaHQ6MHB4OyBvdmVyZmxvdzpoaWRkZW47Ij48YSBocmVmPSJodHRwOi8vdGhpZXRrZXdlYngubmV0IiB0aXRsZT0iVGhp4bq/dCBr4bq/IHdlYnNpdGUiPlRoaeG6v3Qga+G6vyB3ZWJzaXRlPC9hPiBi4bufaSBUaGlldGtld2ViWC5uZXQ8L2gyPg==') ;  ?>

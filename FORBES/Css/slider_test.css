@@ -1,0 +1,20 @@
+#wrapper {width:283px; background-color:#FFF; display:table; }
+
+.sliderbutton {float:left; width:13px; margin-top:100px; padding-left:1px; }
+
+.sliderbutton img {cursor:pointer}
+
+.sliderbutton img:hover {background:#fff}
+
+#slider_test {float:left; position:relative; overflow:auto; width:250px; height:120px; border:2px solid #fff; background:#fff;}
+
+#slider_test ul {
+	position:absolute;
+	list-style:none;
+	top:1px;
+	left:0;
+	margin:0px;
+	padding:0px;
+}
+
+#slider_test li {float:left; width:250px; height:120px; padding-right:10px}
